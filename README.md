@@ -1,8 +1,8 @@
 ## Data Integration with Generators
 
-Simulating the integration of multiple data using generators in Node.js.
-This repository aims to show the advantages of using generators in the Javascript ecosystem.
-This example has two API's that receive data and an index.js file that will request the two APIs,
+Simulating the integration of multiple data using generators in Node.js.  
+This repository aims to show the advantages of using generators in the Javascript ecosystem.  
+This example has two API's that receive data and an index.js file that will request the two APIs,  
 The client receives the data in parallel, as it is not stored in Node.js memory.
 
 ### What's used?  
